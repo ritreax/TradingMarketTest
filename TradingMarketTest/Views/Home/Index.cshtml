@@ -1,0 +1,74 @@
+﻿@model TradingMarketTest.Models.StockApiResponse
+
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+          {
+          "width": "980",
+          "height": "800",
+          "symbol": "BIST:THYAO",
+          "interval": "D",
+          "timezone": "Etc/UTC",
+          "theme": "dark",
+          "style": "1",
+          "locale": "en",
+          "enable_publishing": false,
+          "allow_symbol_change": true,
+          "calendar": false,
+          "support_host": "https://www.tradingview.com"
+        }
+    </script>
+</div>
+
+<!-- TradingView Widget END -->
+
+    
+@* 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stock Data</title>
+</head>
+<body>
+    <div>
+        <h1>Stock Data:</h1>
+        <div>
+            @if (Model.Success && Model !=null)
+            {
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Code</th>
+                            <th>Text</th>
+                            <th>Last Price</th>
+                            <th>Rate</th>
+                            <th>Hacim</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Result)
+                        {
+                            <tr>
+                                <td>@item.Code</td>
+                                <td>@item.Text</td>
+                                <td>@item.LastPrice</td>
+                                <td>@item.Rate</td>
+                                <td>@item.Hacim</td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p>Failed to retrieve stock data.</p>
+            }
+        </div>
+    </div>
+</body>
+</html> *@

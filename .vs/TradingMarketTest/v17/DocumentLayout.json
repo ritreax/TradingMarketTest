@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|c:\\users\\mehme\\source\\repos\\tradingmarkettest\\tradingmarkettest\\models\\stockapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|solutionrelative:tradingmarkettest\\models\\stockapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|c:\\users\\mehme\\source\\repos\\tradingmarkettest\\tradingmarkettest\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|solutionrelative:tradingmarkettest\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|c:\\users\\mehme\\source\\repos\\tradingmarkettest\\tradingmarkettest\\views\\home\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|solutionrelative:tradingmarkettest\\views\\home\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|c:\\users\\mehme\\source\\repos\\tradingmarkettest\\tradingmarkettest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|solutionrelative:tradingmarkettest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|c:\\users\\mehme\\source\\repos\\tradingmarkettest\\tradingmarkettest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|solutionrelative:tradingmarkettest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|c:\\users\\mehme\\source\\repos\\tradingmarkettest\\tradingmarkettest\\tradingmarkettest_dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|solutionrelative:tradingmarkettest\\tradingmarkettest_dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|c:\\users\\mehme\\source\\repos\\tradingmarkettest\\tradingmarkettest\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577D27A-549E-4AE2-9CC4-6BA2EBB488EC}|TradingMarketTest\\TradingMarketTest.csproj|solutionrelative:tradingmarkettest\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\TradingMarketTest_DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TradingMarketTest\\TradingMarketTest_DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\TradingMarketTest_DAL\\AppDbContext.cs",
+              "RelativeToolTip": "TradingMarketTest\\TradingMarketTest_DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:32:34.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "TradingMarketTest\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "TradingMarketTest\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:32:28.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kayit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Views\\Home\\Kayit.cshtml",
+              "RelativeDocumentMoniker": "TradingMarketTest\\Views\\Home\\Kayit.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Views\\Home\\Kayit.cshtml",
+              "RelativeToolTip": "TradingMarketTest\\Views\\Home\\Kayit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T11:00:33.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "TradingMarketTest\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Models\\Stock.cs",
+              "RelativeToolTip": "TradingMarketTest\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:00:17.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Models\\StockApiResponse.cs",
+              "RelativeDocumentMoniker": "TradingMarketTest\\Models\\StockApiResponse.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Models\\StockApiResponse.cs",
+              "RelativeToolTip": "TradingMarketTest\\Models\\StockApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:00:15.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\appsettings.json",
+              "RelativeDocumentMoniker": "TradingMarketTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\appsettings.json",
+              "RelativeToolTip": "TradingMarketTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T10:56:10.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TradingMarketTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TradingMarketTest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:47:54.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
