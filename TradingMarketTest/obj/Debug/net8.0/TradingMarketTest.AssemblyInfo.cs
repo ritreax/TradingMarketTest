@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TradingMarketTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ecad60ad97e6a04d3bc6a111fa45af805fb0ea5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85100c9b806b328c51e3cf0782128cb76b4c608f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TradingMarketTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TradingMarketTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
