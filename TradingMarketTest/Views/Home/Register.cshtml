@@ -1,34 +1,124 @@
-﻿
-@model TradingMarketTest.Models.RegisterViewModel
-
-@{
-    ViewData["Title"] = "Register";
-    Layout = "~/Views/Shared/_Layout.cshtml";
-
+﻿@{
+    Layout = null;
 }
+<!DOCTYPE html>
+<html lang="tr">
 
-<h2>Kayıt Ol</h2>
+<head>
+    <title>Giriş Yap</title>
 
-<form asp-controller="Home" asp-action="Register" method="post">
-    <div class="form-group">
-        <label asp-for="Username">Kullanıcı Adı</label>
-        <input asp-for="Username" class="form-control" />
-        <span asp-validation-for="Username" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="Email">E-mail</label>
-        <input asp-for="Email" class="form-control" />
-        <span asp-validation-for="Email" class="text-danger"></span>
-    </div>
-    <div class="form-group">
-        <label asp-for="Password">Şifre</label>
-        <input asp-for="Password" type="password" class="form-control" />
-        <span asp-validation-for="Password" class="text-danger"></span>
-    </div>
-    <button type="submit" class="btn btn-primary">Kayıt Ol</button>
-</form>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
 
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
 
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" media="all">
+
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" type="text/css" media="all">
 
 
+    <link href="//fonts.googleapis.com/css?family=Quattrocento+Sans:400,400i,700,700i" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Mukta:200,300,400,500,600,700,800" rel="stylesheet">
 
+</head>
+
+<body>
+
+    <section class="main">
+        <div class="layer">
+
+            <div class="bottom-grid">
+                <div class="logo">
+                    <h1> <a href="Index.cshtml"> TradingMarket</a></h1>
+                </div>
+                <div class="links">
+                    <ul class="links-unordered-list">
+                        <li class="active">
+                            <a href="#" class="">Giriş Yap</a>
+                        </li>
+                        <li class="">
+                            <a href="#" class="">Hakkımızda</a>
+                        </li>
+                        <li class="">
+                            <a href="~/Home/SignIn" class="">Kayıt Ol</a>
+                        </li>
+                        <li class="">
+                            <a href="#" class="">İletişim</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="content-w3ls">
+                <div class="text-center icon">
+                </div>
+                <div class="content-bottom">
+                    <form action="#" method="post">
+                        <div class="field-group">
+
+                            <div class="wthree-field">
+                                <input name="text1" id="text1" type="text" value="" placeholder="Kullanıcı Adı" required>
+                            </div>
+                        </div>
+                        <div class="field-group">
+
+                            <div class="wthree-field">
+                                <input name="password" id="myInput" type="Password" placeholder="Şifre">
+                            </div>
+                        </div>
+                        <div class="wthree-field">
+                            <button type="submit" class="btn">Başla</button>
+                        </div>
+                        <ul class="list-login">
+                            <li class="switch-agileits">
+                                <label class="switch">
+                                    <input type="checkbox">
+                                    <span class="slider round"></span>
+                                    Oturumu Açık Tut
+                                </label>
+                            </li>
+                            <li>
+                                <a href="#" class="text-right">Şifremi Unuttum?</a>
+                            </li>
+                            <li class="clearfix"></li>
+                        </ul>
+                        <ul class="list-login-bottom">
+                            <li class="">
+                                <a href="#" class="">Hesap Oluştur</a>
+                            </li>
+                            <li class="">
+                                <a href="#" class="text-right">Yardım</a>
+                            </li>
+                            <li class="clearfix"></li>
+                        </ul>
+                    </form>
+                </div>
+            </div>
+            <div class="bottom-grid1">
+                <div class="links">
+                    <ul class="links-unordered-list">
+                        <li class="">
+                            <a href="#" class="">Hakkımızda</a>
+                        </li>
+                        <li class="">
+                            <a href="#" class="">Gizlilik Politikası</a>
+                        </li>
+                        <li class="">
+                            <a href="#" class="">Kullanım Şartları</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+</body>
+
+</html>

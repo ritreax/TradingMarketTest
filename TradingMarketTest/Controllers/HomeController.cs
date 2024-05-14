@@ -31,7 +31,7 @@ namespace TradingMarketTest.Controllers
         public async Task<IActionResult> Index()
         {
             var stockData = await _stockService.GetStockData();
-            await AddStockData(stockData); // AddStockData metodunu çağır
+           // await AddStockData(stockData); // AddStockData metodunu çağır
 
             // Log ekle
             Console.WriteLine("Stock data added to the database.");
@@ -104,16 +104,20 @@ namespace TradingMarketTest.Controllers
         {
             return View();
         }
+        public IActionResult AnaSayfa()
+        {
+            return View();  
+        }
+        public IActionResult SignIn()
+        {
+            return View();
+        }
 
         public IActionResult Register()
         {
             return View();
         }
-        public IActionResult Kayit()
-        {
-            return View();
-        }
-
+       
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

@@ -1,51 +1,68 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
+
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - TradingMarketTest</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/TradingMarketTest.styles.css" asp-append-version="true" />
+    
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" media="all">
+
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" type="text/css" media="all">
+
+
+    <link href="//fonts.googleapis.com/css?family=Quattrocento+Sans:400,400i,700,700i" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Mukta:200,300,400,500,600,700,800" rel="stylesheet">
 </head>
+
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TradingMarketTest</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+    <section class="main">
+        <div class="layer">
+
+            <div class="bottom-grid">
+                <div class="logo">
+                    <h1> <a href="~/Home/Index.cshtml"> TradingMarket</a></h1>
+                </div>
+                <div class="links">
+                    <ul class="links-unordered-list">
+                        <li class="active">
+                            <a href="~/Home/Register" class="">Giriş Yap</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" href="/Home/Kayit" >Login</a>
+                        <li class="">
+                            <a href="#" class="">Hakkımızda</a>
                         </li>
-                        
-       
+                        <li class="">
+                            <a href="~/Home/SignIn" class="">Kayıt Ol</a>
+                        </li>
+                        <li class="">
+                            <a href="#" class="">İletişim</a>
+                        </li>
                     </ul>
                 </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - TradingMarketTest - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                <div class="text-center icon">
+                </div>
+            </div>
+
         </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+    </section>
+
+    <section class="main">
+        <div class="layer">
+            @RenderBody()
+        </div>
+    </section>
+   
 </body>
+
 </html>

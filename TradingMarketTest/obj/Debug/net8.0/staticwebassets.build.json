@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XQr6z5FQj8jpnDZMMQuOUILz3CUevH8BemiHn0MgGHs=",
+  "Hash": "wr1OgoGBq1mwXOWWTYhqMu9xUJ4rkAGhW2k+fnmxhg4=",
   "Source": "TradingMarketTest",
   "BasePath": "_content/TradingMarketTest",
   "Mode": "Default",
@@ -17,50 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TradingMarketTest.styles.css",
-      "SourceId": "TradingMarketTest",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/TradingMarketTest",
-      "RelativePath": "TradingMarketTest.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TradingMarketTest.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TradingMarketTest.bundle.scp.css",
-      "SourceId": "TradingMarketTest",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/TradingMarketTest",
-      "RelativePath": "TradingMarketTest.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TradingMarketTest.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "TradingMarketTest",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\",
       "BasePath": "_content/TradingMarketTest",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,15 +33,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\css\\style.css",
       "SourceId": "TradingMarketTest",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\",
       "BasePath": "_content/TradingMarketTest",
-      "RelativePath": "css/styles.css",
+      "RelativePath": "css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,7 +52,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\favicon.ico",

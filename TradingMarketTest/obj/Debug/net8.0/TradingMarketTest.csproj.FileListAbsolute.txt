@@ -124,9 +124,7 @@ C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TradingMarketTest.props
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TradingMarketTest.props
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\scopedcss\bundle\TradingMarketTest.styles.css
-C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\scopedcss\projectbundle\TradingMarketTest.bundle.scp.css
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\TradingM.4ADA7665.Up2Date
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\TradingMarketTest.dll
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\refint\TradingMarketTest.dll
@@ -267,3 +265,4 @@ C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\bin\Debug\net8.0
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\mehme\source\repos\TradingMarketTest\TradingMarketTest\obj\Debug\net8.0\TradingMarketTest.sourcelink.json

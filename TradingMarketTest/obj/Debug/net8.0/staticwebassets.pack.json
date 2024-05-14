@@ -1,16 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TradingMarketTest.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TradingMarketTest.bundle.scp.css"
+      "Id": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\css\\styles.css",
-      "PackagePath": "staticwebassets\\css\\styles.css"
+      "Id": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\mehme\\source\\repos\\TradingMarketTest\\TradingMarketTest\\wwwroot\\favicon.ico",
